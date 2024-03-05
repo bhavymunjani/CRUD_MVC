@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzrLmYaPTHGqE3W8rwEW+xEh7qW4oaiFfhvq/nvxRtERqryHqJsNNoVG7wiGxDYmm7kiOfF+OxRg45v6KNvm4Q==",
+  "success": true,
+  "projectFilePath": "/Users/bhavy/Projects/CRUD_MVC/CRUD_MVC/CRUD_MVC.csproj",
+  "expectedPackageFiles": [
+    "/Users/bhavy/.nuget/packages/bootstrap/5.3.3/bootstrap.5.3.3.nupkg.sha512",
+    "/Users/bhavy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/bhavy/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/bhavy/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
